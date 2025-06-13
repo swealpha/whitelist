@@ -1,0 +1,4 @@
+viu.com                   # huvuddomän
+hq.viu.com                # global startsida :contentReference[oaicite:5]{index=5}
+iq.com                    # iQIYI International :contentReference[oaicite:6]{index=6}
+wetv.vip                  # WeTV (Tencent) :contentReference[oaicite:7]{index=7}
