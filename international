@@ -1,14 +1,14 @@
 amazonvideo.com
 aiv-cdn.net
-apple.com                 # auth till Apple-ID
-akadns.net                # Apple-TV+ CDN :contentReference[oaicite:1]{index=1}
+apple.com            # Apple-ID auth
+akadns.net           # Apple TV+ CDN 
 bamgrid.com
 britbox.com
 crunchyroll.com
 crunchyroll-vrv.com
-dssott.com
-disney-plus.net
 disneyplus.com
+disney-plus.net
+dssott.com
 discoveryplus.com
 disco-api.com
 hbomax.com
@@ -21,11 +21,11 @@ nflximg.com
 nflximg.net
 nflxsearch.net
 nflxso.net
-nflxvideo.net             # Netflix Open-Connect CDN :contentReference[oaicite:2]{index=2}
+nflxvideo.net        # Netflix Open Connect CDN
 pluto.tv
 primevideo.com
 rakuten.tv
 skyshowtime.com
 tv.apple.com
-plus.rtl.de               # RTL+ tysk streaming :contentReference[oaicite:3]{index=3}
+plus.rtl.de          # RTL+ (tyska kanaler) :contentReference[oaicite:9]{index=9}
 rtlplus.com
