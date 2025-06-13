@@ -1,21 +1,25 @@
 allente.se
-tv.allente.se
-barnkanalen.se
-cineasterna.se
-cmore.se
+tv.allente.se         # Allente Web-tv :contentReference[oaicite:0]{index=0}
+barnkanalen.se        # SVT Barn
+cineasterna.se        # Biblioteks-VOD :contentReference[oaicite:1]{index=1}
+cmore.se              # ingår numera i TV4 Play
 comhemplay.se
-drakenfilm.se
+drakenfilm.se         # Göteborg Film Festivals SVoD :contentReference[oaicite:2]{index=2}
+oppetarkiv.se         # äldre SVT-program
 play.ownit.se
-sappaplay.se
+sappaplay.se          # Sappa Play :contentReference[oaicite:3]{index=3}
 sfanytime.com
 svt.se
 svtplay.se
+svtstatic.se          # statiska/video‐assets :contentReference[oaicite:4]{index=4}
 teliaplay.se
 telia.se
 tele2play.se
 stream.telenor.se
-triartplay.se
-urplay.se
+triartplay.se         # TriArt Play :contentReference[oaicite:5]{index=5}
+urplay.se             # UR Play :contentReference[oaicite:6]{index=6}
 viaplay.se
-nordiskfilmplus.com       # Nordisk Film + :contentReference[oaicite:0]{index=0}
-.
+nordiskfilmplus.com   # Nordisk Film + :contentReference[oaicite:7]{index=7}
+tv4.se
+tv4play.se
+viafree.se            # kvar som redirect till Pluto TV-AVOD
