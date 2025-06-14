@@ -1,4 +1,2 @@
-# Swedish
-På denna sida har jag samlat alla streamingtjänsters url:er.
-
-Uppdateras ständigt när fler url.er hittas.
+# EOL
+Jag ger upp denna sida, behöver hitta ett större projekt där man whitelistar all världens streaming.
